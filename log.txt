@@ -1,3 +1,5 @@
+3d43201 Task 2.4
+2d57a3b Task 2.3
 ce42637 Task 2.2
 44ed8de update git log.txt
 2d74cd2 Task 2.1
