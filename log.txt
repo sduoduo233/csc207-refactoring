@@ -1,3 +1,5 @@
+2d74cd2 Task 2.1
+25e271c Task 1.2 git log
 207279a Task 1.1 fix checkstyle
 2b4f164 fixed tests for the not-for-credit tasks; parameter ordering and ensuring consistent line endings.
 ff5004e adding shortcut keys for Inline Variable (Re: Piazza question)
